@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0d3a2a9-f16a-4eb6-9a6a-aaf76cd2e77a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.eslintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.eslintrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.prettierrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SECURITY.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goit-js-hw-12/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../goit-js-hw-12/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goit-js-hw-12/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../goit-js-hw-12/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goit-js-hw-12/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../goit-js-hw-12/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../prettier.config.js" beforeDir="false" />
-    </list>
+    <list default="true" id="e0d3a2a9-f16a-4eb6-9a6a-aaf76cd2e77a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +20,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../goit-js-hw-12" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../js-hw/goit-js-hw-10-food-service" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -60,6 +41,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590230355330</updated>
       <workItem from="1590230356928" duration="1958000" />
+      <workItem from="1590401752796" duration="189000" />
     </task>
     <servers />
   </component>
@@ -67,10 +49,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1590231713896">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1590401937282">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590231713896" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590401937282" />
     <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1590230443034">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
