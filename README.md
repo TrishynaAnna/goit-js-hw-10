@@ -94,3 +94,4 @@ npm run deploy
 страницу можно будет посмотреть по адресу указанному в отредактированном
 свойстве `homepage`.
 # TrishynaAnna-goit-js-hw-10-food-service
+# goit-js-hw-10-food-service
