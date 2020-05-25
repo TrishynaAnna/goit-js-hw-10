@@ -95,3 +95,4 @@ npm run deploy
 свойстве `homepage`.
 # TrishynaAnna-goit-js-hw-10-food-service
 # goit-js-hw-10-food-service
+# goit-js-hw-10
